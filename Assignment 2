@@ -1,0 +1,178 @@
+<html>
+
+<!--meta-->
+
+<head> 
+	<meta name="description" content="Infomation about the convention, the schedule, registration, and location." /> 
+	<meta name="keywords" content="constuction, convention,registration" /> 
+	<meta name="robots" content="nofollow" /> 
+	<meta http-equiv="author" content="Beth Goss" /> 
+	<meta http-equiv="pragma" content="no-cache" /> 
+</head>
+
+<!--end of meta-->
+
+<!--schedule of convention-->
+
+<title>Contruction Convention</title>
+
+<h1>Schedule</h1>
+
+<body>
+
+	<table>
+		<p></p>
+		<hr />
+
+		<h2>Friday</h2>
+
+		<thead>
+			<tr>
+				<th>Room Location</th>
+				<th scope="col">Auditorium</th>
+				<th scope="col">Panel A</th>
+				<th scope="col">Panel 204</th>
+			</tr>
+		</thead>
+
+		<tr>
+			<th>8am - 10 am</th>
+			<td>Using Your Head (and Hard Hats): Safety on the Job</td>
+			<td>Welders Renite!</td>
+			<td>Hammer in the Morning</td>
+		</tr>
+
+		<tr>
+			<th>11am - 12pm</th>
+			<td>One Ruler to Rule Them All: Drafting Success</td>
+			<td>Concrete with <b>Bob Buildman</b></td>
+			<td>Imagine the Stakes: A History of Support</td>
+		</tr>
+
+		<tr>
+			<th>2pm - 4pm</th>
+			<td>She Saw SeeSaws with <b>Ian Poutlice</b></td>
+			<td>Meltdown: Welders' Workshop</td>
+			<td>Want of a Nail</td>
+		</tr>
+
+	</table>
+
+	<p></p>
+	<hr />
+
+	<h2>Saturday</h2>
+
+	<table>
+
+		<thead>
+			<tr>
+				<th>Room Location</th>
+				<th scope="col">Auditorium</th>
+				<th scope="col">Panel B</th>
+				<th scope="col">Panel 102</th>
+			</tr>
+		</thead>
+
+		<tr>
+			<th>8am - 10 am</th>
+			<td>Using Your Head (and Hard Hats): Safety on the Job</td>
+			<td>Making the Best Bits with <b>Bob Buildman</b></td>
+			<td>Hammer Time!</td>
+		</tr>
+
+		<tr>
+			<th>11am - 12pm</th>
+			<td>Tools to Live By: Demo by <b>Philis Woodman</b></td>
+			<td>Don't Screw This Up: Common Mistakes with Screwdrivers</td>
+			<td>Take It Up a Notch: Drill Workshop</td>
+		</tr>
+
+		<tr>
+			<th>2pm - 4pm</th>
+			<td>Be Constructive with <b>Jane Doe</b></td>
+			<td>Meltdown: Welders' Workshop</td>
+			<td>Hammer Time! Reprise!</td>
+		</tr>
+
+	</table>
+
+	<p></p>
+	<hr />
+
+	<h2>Sunday</h2>
+
+	<table>
+
+		<thead>
+			<tr>
+				<th>Room Location</th>
+				<th scope="col">Auditorium</th>
+				<th scope="col">Panel A</th>
+				<th scope="col">Panel 102</th>
+			</tr>
+		</thead>
+
+		<tr>
+			<th>8am - 10 am</th>
+			<td>Using Your Head (and Hard Hats): Safety on the Job</td>
+			<td>Filling in Floors with <b>Bob Buildman</b></td>
+			<td>Lie on the Linoleum with <b>Lindsy Callen</b></td>
+		</tr>
+
+		<tr>
+			<th>11am - 12pm</th>
+			<td>Breathtaking Benches with <b>Frank Lepedus</b></td>
+			<td>Radical Radius: Measure Up to the Standard</td>
+			<td>Do the Hard Looking On: Unions</td>
+		</tr>
+
+		<tr>
+			<th>2pm - 4pm</th>
+			<td>Conjuction Construction: What's Your Function?</td>
+			<td>Meltdown: Welders' Workshop</td>
+			<td>Hammer Time! One Last Time!</td>
+		</tr>
+
+	</table>
+
+	<!--end of convention schedule-->
+
+	<p></p>
+	<hr />
+	<p></p>
+	<p></p>
+
+	<!--google map embed-->
+
+	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2976.0546739471797!2d-72.66787699999999!3d41.76247899999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e6537a148b24b5%3A0xd45130c04d9aaf48!2sConnecticut+Convention+Center!5e0!3m2!1sen!2sus!4v1411098533948" width="400" height="300" frameborder="0" style="border:0"></iframe>
+
+	<!--end google map-->
+
+	<p></p>
+
+	<!--Registration-->
+
+	<fieldset>
+
+		<legend>Registration</legend>
+		<label>Name:<br /> <input type="text" name="name" /></label><br />
+		<label>Last Name:<br /> <input type="text" name="last name" /></label><br />
+		<label>Sex:<br /> 
+			<select name="Sex">     
+				<option value="female">male</option>     
+				<option value="male">female</option>        
+			</select><br />
+			<label>Address:<br /> <input type="text" name="address" /></label><br />
+			<label>Email:<br /> <input type="text" name="email" /></label><br /> 
+			<label>Mobile:<br /> <input type="text" name="mobile" /></label><br /> 
+			<label>Work Number:<br /> <input type="text" name="worknumber" /></label><br />
+			<label>Company Name:<br /> <input type="text" name="company name" /></label><br />
+			<input type="submit" value="Submit" />
+
+		</fieldset>
+
+		<!--end Registration-->
+
+	</body>
+	</html> 
