@@ -1,25 +1,30 @@
 
-h1,h2 { font-size: 45px;
-	   font-family: helvetica;
-	   color: #D4781C;
-	   background-color: white;
+h1,h2 { font-size: 60px;
+	   font-family: "Palatino Linotype";
+	   color: HoneyDew;
+	   background-color: MediumSeaGreen;
 
 }
 
-body { background-color: rgb(200,200,200);
-       border: 1px solid #665544;
+body { background-color: BurlyWood;
+       border: 5px dotted solid double red;
        padding: inherit;
 
 }
 
-p { background-color: white;
-   font-family: Lucida;
-   font-size: 12px;
+p { background-color: LightCyan;
+   font-family: Comic Sans MS;
+   font-size: 25px;
+   font-variant: small-caps;
+   font-stretch: semi-expanded;
+   font-color: DarkOrange;
 
 }
 
-i { color: darkblue;
+i { color: GoldenRod;
 }
 
-b { color: darkorange;}
+b { color: FireBrick;
+	
+}
  
