@@ -7,7 +7,9 @@ h1,h2 { font-size: 60px;
 }
 
 body { background-color: BurlyWood;
-       border: 5px dotted solid double red;
+       border-style: ridge;
+       border-width: 5px;
+       border color: Orchid;
        padding: inherit;
 
 }
@@ -25,6 +27,10 @@ i { color: GoldenRod;
 }
 
 b { color: FireBrick;
+	
+}
+
+ol { color: LavenderBlush;
 	
 }
  
