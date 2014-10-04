@@ -1,8 +1,0 @@
-head {
-	font-size: 45 px;
-	font-family: Palatino Linotype;
-	color: D4781C
-	background color: 0D7A87
-	border: 1px solid #665544;
-
-}
