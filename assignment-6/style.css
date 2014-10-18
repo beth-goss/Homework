@@ -180,10 +180,10 @@ footer a:link, footer a:visited {
 	list-style-type: none;
 	}
 .sidebar li a:link {
-	color: #988F5E;
+	color: darkslategrey;
 	}
 .sidebar li a:visited {
-	color: #B3AE94;
+	color: orange;
 	}
 
 
