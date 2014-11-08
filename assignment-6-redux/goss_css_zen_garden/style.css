@@ -1,0 +1,124 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* This file based on 'Tranquille' by Dave Shea */
+/* You may use this file as a foundation for any new work, but you may find it easier to start from scratch. */
+/* Not all elements are defined in this file, so you'll most likely want to refer to the xhtml as well. */
+
+/* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
+
+
+/* basic elements */
+
+html {
+	margin: 0;
+	padding: 0;
+	}
+
+body { background: palegoldenrod url(three-musicians-edit.jpg);
+			 background-repeat: no-repeat;
+			 background-attachment: fixed;
+			 background-position: right;
+}
+      
+
+p {color: #000033;
+	 text-align: left;
+	 font-family: 'Open Sans', sans-serif;
+	 padding-right: 4px;
+	 padding-bottom: 10px;
+  text-indent: 25px;
+  width: 65%;
+}
+
+
+h1 {font-size: 7.2em;
+		font-family: "Palatino-Linotype", "Times New Roman"; numeralserif;
+		text-shadow: 5px 5px 5px grey;
+		color: saddlebrown;
+		text-align: left;
+		background: lightsteelblue;
+		width: 150px;
+		}
+
+h2 {color:brown;
+		 font-size: 3em;
+		 text-align: left;
+		 text-shadow: 1px 1px 1px grey;
+		 font-family: inherit;
+		 padding-bottom:# 20px;
+		 text-transform: uppercase;
+}
+	
+	
+
+	h3 {color:brown;
+			font-size: 1.3em;
+		 text-align: left;
+		 text-decoration: underline;
+		 font-family: inherit;
+		 padding-bottom: 10px;
+}
+
+a:link {color: maroon;
+text-decoration: none;}
+a:hover {color: green;}
+a:visited {color: green;}
+
+.sidebar {
+	top: 0; 
+	right: 0;
+	}
+
+.sidebar .wrapper { 
+	font: 12px verdana, sans-serif;  
+	padding: 10px; 
+	margin-top: 40px; 
+	width: 100px; 
+	position: left;
+	
+
+	}
+.sidebar h3.select { 
+	margin: 10px 0 5px 0; 
+	width: 97px; 
+	height: 16px; 
+	white-space: nowrap;
+	}
+.sidebar h3.archives {  
+	margin: 25px 0 5px 0; 
+	width:57px; 
+	height: 14px;
+	}
+.sidebar h3.resources {  
+	margin: 25px 0 5px 0; 
+	width:63px; 
+	height: 10px;
+	}
+
+.sidebar ul {
+	margin: 0;
+	padding: 0;
+	}
+
+.sidebar li {
+	line-height: 2em; 
+	display: block; 
+	padding-top: 2px; 
+	margin-bottom: 2px;
+	background: lightsteelblue;
+	}
+.sidebar li a:link {
+	color: maroon;
+	}
+.sidebar li a:visited {
+	color: darkgreen;
+	}
+	.sidebar li a:hover {
+	color: green;
+	}
+	li, ul {
+		border: 1px groove grey;
+		outline color: black;
+  width: 100%
+	}
